@@ -1,0 +1,39 @@
+
+
+h1 {
+    color: blue;
+} 
+
+.headerStyling {
+    color: rgb(12, 4, 4);
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+body {
+   background-color: rgb(129, 125, 129);
+}
+
+.container1 {
+    display: flex;
+}
+
+.container1 div{
+    border: 1px #ccc solid;
+    padding: 10px;
+}
+
+.box1{
+flex: 1;
+}
+
+.box2 {
+flex: 1;
+}
+.box3 {
+flex: 1;
+}
